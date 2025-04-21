@@ -1,3 +1,33 @@
+🛒 E-Commerce React App
+A fully responsive e-commerce web application built with React.js, Firebase, Redux Toolkit, and Tailwind CSS. This project was created as part of the technical assessment for the React Developer position at Vishleshan.
+
+🚀 Project Overview
+This e-commerce platform allows users to:
+
+Register and log in with email/password or social providers (Google/Facebook) using Firebase Authentication
+
+Browse and filter a list of products with category, search, and sort functionality
+
+View product details and add items to a cart managed by Redux Toolkit
+
+Perform secure payments via Razorpay
+
+View a dynamic order confirmation page post-purchase
+
+🛠️ Tech Stack
+React.js – Frontend library
+
+Firebase – Authentication and session management
+
+Redux Toolkit – Global state management for shopping cart
+
+Tailwind CSS – For responsive UI and styling
+
+Razorpay – Payment gateway integration
+
+React Router – Routing and protected routes
+
+Context API – For managing user authentication status
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +98,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
